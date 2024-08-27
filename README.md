@@ -1,4 +1,4 @@
 # vaishnavi-first-demo
 this is my first git repository
 <br>
-author:vaishnavi shukla
+author:vaishnavi (gut)
